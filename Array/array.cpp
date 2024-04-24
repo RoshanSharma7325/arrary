@@ -1,20 +1,3 @@
-#include <iostream>
-using namespace std;
-int main(){
-    int arr[3];
-    for (int i = 0; i < 3; i++)
-    {
-        cin>>arr[i];
-    }
-    for (int i = 0; i < 3; i++)
-    {
-       cout<<arr[i]*2<<endl;
-    }
-    
-    
-}
-
-
 // #include <iostream>
 // using namespace std;
 // int main(){
@@ -25,11 +8,28 @@ int main(){
 //     }
 //     for (int i = 0; i < 3; i++)
 //     {
-//        cout<<arr[3]*1;
+//        cout<<arr[i]*2<<endl;
 //     }
     
     
 // }
+
+
+#include <iostream>
+using namespace std;
+int main(){
+    int arr[3];
+    for (int i = 0; i < 3; i++)
+    {
+        cin>>arr[i];
+    }
+    for (int i = 0; i < 3; i++)
+    {
+       cout<<arr[3]*1;
+    }
+    
+    
+}
 
 
 
@@ -132,3 +132,6 @@ int main(){
 
 //   return 0;
 // }
+
+
+//tfgjh
