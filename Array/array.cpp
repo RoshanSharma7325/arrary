@@ -15,21 +15,21 @@
 // }
 
 
-#include <iostream>
-using namespace std;
-int main(){
-    int arr[3];
-    for (int i = 0; i < 3; i++)
-    {
-        cin>>arr[i];
-    }
-    for (int i = 0; i < 3; i++)
-    {
-       cout<<arr[3]*1;
-    }
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int arr[3];
+//     for (int i = 0; i < 3; i++)
+//     {
+//         cin>>arr[i];
+//     }
+//     for (int i = 0; i < 3; i++)
+//     {
+//        cout<<arr[3]*1;
+//     }
     
     
-}
+// }
 
 
 
@@ -132,5 +132,16 @@ int main(){
 
 //   return 0;
 // }
+
+#include <iostream>
+using namespace std;
+int main (){
+    int a ;
+    cout <<"enter length array";
+    int arr[a];
+    for(int i=0;i<a;i++){
+        
+    }
+}
 
 
